@@ -4,7 +4,7 @@
   "author": "Frank Reimer",
   "summary": "Installs VMWare tools on virtual machine only. On RHEL 6 original VMWare tools will be installed. On RHEL 7 this module will install the openvm-tools shipped with RHEL.",
   "license": "GPLv3+",
-  "source": "https://github.com/hambuergaer/freimer-vmaretools"
+  "source": "https://github.com/hambuergaer/freimer-vmaretools",
   "project_page": "https://github.com/hambuergaer/freimer-vmaretools",
   "issues_url": "https://github.com/hambuergaer/freimer-vmaretools/issues",
   "operatingsystem_support": [
